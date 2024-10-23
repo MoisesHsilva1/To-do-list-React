@@ -6,9 +6,9 @@ export function AllTasks() {
         <>
         <nav>
             <section>
-                <button onClick={AllTask}>All</button>
+                <button onClick={AllTask}>Todas Tarefas</button>
             </section>
         </nav>
         </>
-    )
+    );
 }

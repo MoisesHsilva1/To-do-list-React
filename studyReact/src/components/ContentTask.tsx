@@ -7,5 +7,5 @@ export function ContentTask() {
             </section>
         </main>
         </>
-    )
+    );
 }
